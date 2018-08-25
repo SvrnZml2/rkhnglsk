@@ -3151,13 +3151,17 @@ ul.countdown li p {
 
 .left-background-1 {
 	background-image: url(../images/split-1-left.png);
+	
 }
 
 .left-background-2 {
+	background: white;
 	background-image: url(../images/split-2-left.png);
+	
 }
 
 .left-background-3 {
+	background: white;
 	background-image: url(../images/split-3-left.png);
 }
 
@@ -3166,10 +3170,12 @@ ul.countdown li p {
 }
 
 .right-background-2 {
+	background: white;
 	background-image: url(../images/split-2-right.png);
 }
 
 .right-background-3 {
+	background: white;
 	background-image: url(../images/split-3-right.png);
 }
 
